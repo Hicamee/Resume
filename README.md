@@ -1,3 +1,3 @@
 # Резюме
 
-[Результат](https://hicamee.github.io/Resume/).
+[Результат](https://hicamee.github.io/Resume/)
