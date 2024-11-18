@@ -2,4 +2,4 @@
 
 ## Результат
 
-{Резюме}(https://hicamee.github.io/Resume/).
+[Резюме](https://hicamee.github.io/Resume/).
